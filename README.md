@@ -20,30 +20,32 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sherif-omar111&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="sherif-omar111" />
 </div>
-<p></p><p></p>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sherif-omar111&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="mohamed abd elmaksoud" />
+<img src="https://github-profile-trophy.vercel.app/?username=sherif-omar111&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=2" alt="sherif omar" />
 </div>
 
 
 <!-- ABOUTME -->
+<div align="left">
 ## 🚀 About Me
 
 - 🌱 I’m currently learning ****
-
+</div>
 
 <!-- CONTACTS -->
 <h3 align="left">Connect with me:</h3>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-omar-23829b222/) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-omar-23829b222/) 
   
 </div>
 
 <!-- Languages and Tools -->
+<div align="left">
 ## :hammer_and_wrench: Languages and Tools :
-
+</div>
 <h3 align="left">Support: </h3>
 <div align="center">
 
