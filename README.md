@@ -27,11 +27,13 @@
 
 
 <!-- ABOUTME -->
-<div align="left">
-## 🚀 About Me
 
-- 🌱 I’m currently learning ****
+## 🚀 About Me
+<div align="left">
+An ambitious Electronics Engineer with self-learning skills and I have a great passion for being a Digital Design and Verification Engineer
+<!-- - 🌱 I’m currently learning **** -->
 </div>
+
 
 <!-- CONTACTS -->
 <h3 align="left">Connect with me:</h3>
@@ -43,9 +45,8 @@
 </div>
 
 <!-- Languages and Tools -->
-<div align="left">
+
 ## :hammer_and_wrench: Languages and Tools :
-</div>
 <h3 align="left">Support: </h3>
 <div align="center">
 
